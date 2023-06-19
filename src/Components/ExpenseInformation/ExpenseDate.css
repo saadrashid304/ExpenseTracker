@@ -1,0 +1,25 @@
+.expense-item__date {
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 12px;
+  color: white;
+  width: 5.7rem;
+  height: 5.2rem;
+  text-align: center;
+  background-color: rgb(31, 31, 31);
+  padding: 0 0.5rem;
+}
+
+.expense-item__date h4 {
+  font-size: 14px;
+  line-height: 0px;
+}
+
+.expense-item__date p {
+  font-size: 14px;
+  line-height: 0px;
+}
+
+.expense-item__date h2 {
+  line-height: 5px;
+}
